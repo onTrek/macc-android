@@ -232,7 +232,7 @@ class TrackScreenViewModel(private val currentUserId: String) : ViewModel() {
         }
 
         // TODO: to uncomment only on debug
-        elaborateDirection(0f)
+        // elaborateDirection(0f)
     }
 
     private fun computeProgress(
